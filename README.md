@@ -2,6 +2,7 @@
 <h3 align="center">An Aspiring Data Analyst and ML enthusiast. (Also I am a Beta MLSA)</h3>
 
 - 📫 How to reach me **souradip1000@gmail.com**
+- ALso my github got flagged recently (idk why) so you will see less commits and PR
 
 <div> <a href = "mailto:souradip1000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
