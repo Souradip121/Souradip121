@@ -15,20 +15,6 @@ I started my tech journey in 2022, participating in my first hackathon and atten
 - **MLOps**: Docker, Kubernetes, MLflow, Data Versioning (DVC)
 - **Data Engineering**: ETL Pipelines, PySpark, Azure, AWS, GCP
 
-## 🚀 Featured Projects
-
-### Vistaar - ISRO Satellite Data Platform
-Built a cloud-based solution for manipulating INSAT satellite data, processing 500+ GBs of Level 1 INSAT-3DR data into cloud-optimized GeoTIFF formats with 99.2% accuracy. Won 1st place at Smart India Hackathon 2024.
-
-### yourmind.space - AI-Powered Journaling Assistant
-Crafted an AI-powered personal journaling assistant using Conversational Realtime GPT API, processing 1,000+ user interactions daily. Established a voice-based journaling platform with 92% emotion detection accuracy.
-
-### Rice Classification with PyTorch
-Formulated a Convolutional Neural Network using PyTorch achieving 93.7% accuracy in classifying 5 different rice varieties from 2,500+ images. Published tutorial on Towards AI with 12,000+ views.
-
-### Chicken Disease Classification with MLOps
-Built a binary classification model using VGG16 CNN with transfer learning (95.8% accuracy). Implemented DVC for dataset management and deployed on Azure with CI/CD pipeline.
-
 ## 🏆 Hackathons & Achievements
 
 - **Smart India Hackathon 2k24** - 3rd Place | Vistaar - ISRO satellite imagery interface
