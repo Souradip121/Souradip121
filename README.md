@@ -4,7 +4,14 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Souradip121&color=brightgreen)
 
+
 I started my tech journey in 2022, participating in my first hackathon and attending numerous seminars. Today, I've competed in 5+ hackathons, won the Smart India Hackathon, and am currently doing an internship at ISRO. I've built [devdotcom.in](https://devdotcom.in), where I run free DSA classes, host podcasts, and mentor learners!
+
+<p align="center">
+  <a href="https://souradip.me" target="_blank">
+    <img src="https://img.shields.io/badge/Website-souradip.me-blue?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Personal Website"/>
+  </a>
+</p>
 
 ## 👨‍💻 Tech Stack
 
